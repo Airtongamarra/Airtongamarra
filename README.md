@@ -37,7 +37,7 @@
 ## 
 
  <i>Just like the stars, I was born to shine 🌟 </i> <br> <br>
- <img src="https://github.com/Airtongamarra/Airtongamarra/blob/main/Knight-Game.gif" width="220">
+ <img src="https://github.com/Airtongamarra/Airtongamarra/blob/master/Knight-Game.gif" width="220">
 
 ##
   
