@@ -29,5 +29,6 @@
  <img src="https://github.com/Airtongamarra/Airtongamarra/blob/master/imagem1.gif" width="220">
 
 ##
+<a href="https://www.freepik.com/search?format=search&last_filter=query&last_value=angular+js&query=angular+js&type=icon">Icon by Freepik</a>
   
  
