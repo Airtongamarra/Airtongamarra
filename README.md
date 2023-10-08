@@ -1,5 +1,5 @@
 <h3> Hello, I'm Airton Gamarra! 🌱 Welcome to my GitHub profile! 👋🏻 </h3>  
-<h4></h4>   
+<h4>A digital architect building bridges between lines of code and incredible experiences. As a front-end developer, my job is to turn ideas into intuitive interfaces that come to life in the browser</h4>   
            
 <h6> 💫 #Webdevelopment, #Games, #Digitaldesign #Technology #Front-End </h6>
    
