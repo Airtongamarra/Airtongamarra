@@ -6,7 +6,7 @@
    
 ## 
 
- <i>Just like the stars, I was born to shine 🌟 </i> <br> <br>
+ <i>In the midst of difficulty lies opportunity. </i> <br> <br>
  <img src="https://github.com/Airtongamarra/Airtongamarra/blob/master/imagem1.gif" width="220">
 
 ##
